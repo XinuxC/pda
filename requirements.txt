@@ -9,7 +9,7 @@ backports.ssl-match-hostname==3.5.0.1
 baidu-aip==1.6.1.0
 bcrypt==3.1.4
 beautifulsoup4==4.4.0
-bleach==2.0.0
+bleach==3.1.4
 cffi==1.11.2
 chardet==3.0.4
 configparser==3.5.0
