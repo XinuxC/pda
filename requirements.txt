@@ -76,7 +76,7 @@ olefile==0.44
 openpyxl==2.4.9
 pandas==0.22.0
 pandocfilters==1.4.2
-paramiko==2.2.1
+paramiko==2.10.1
 parso==0.1.1
 passlib==1.6.5
 path.py==8.1.2
